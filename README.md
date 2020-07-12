@@ -1,2 +1,0 @@
-# Osobn-Web
-My web
