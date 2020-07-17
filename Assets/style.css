@@ -16,6 +16,12 @@ p{
 	color: #000000;
 }
 
+.podtext1{
+	font-size: 15px;
+	font-family: monospace;
+	color: #4d4b4b;
+}
+
 .button {
   border: none;
   color: white;
@@ -25,21 +31,54 @@ p{
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  transition-duration: 0.4s;
+  transition-duration: 1s;
   cursor: pointer;
 }
 
 .button1 {
   background-color: #474747; 
-  color: black; 
+  color: white; 
   border: 2px solid #000000;
 }
 
 .button1:hover {
-  background-color: #474747;
-  color: white;
+  background-color: #ffffff;
+  color: black;
 }
 
 .iconify:hover{
 	height:60px;
+	color: #ffffff;
 }
+
+div{
+  background-color: white;
+  width: 250px;
+  height: 250px;
+  border-radius:42px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+.testing{
+    font-family: monospace;
+	font-size: 30px;
+}
+
+.Tlačítko{
+   background-color: #484848;
+   font-family: monospace;
+   font-size: 20px; 
+   border-radius: 35px;
+   color: #FFFFFF;
+   padding: 9px 31px;
+}
+.Tlačítko:hover{
+   background-color: #525252;
+}
+
+.podtexttabulka{
+	font-size: 15px;
+	font-family: monospace;
+}
+        
