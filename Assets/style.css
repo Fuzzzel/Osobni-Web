@@ -81,4 +81,24 @@ div{
 	font-size: 15px;
 	font-family: monospace;
 }
-        
+
+.error1{
+	font-size: 60px;
+	font-family: 'Ubuntu Mono', monospace;
+	margin: 50px;
+	color: #b1b5b2;
+}
+
+.error2{
+	font-size: 60px;
+	font-family: 'Ubuntu Mono', monospace;
+	margin: 50px;
+	color: #FFFFFF;
+}
+
+.error3{
+	font-size: 25px;
+	font-family: 'Ubuntu Mono', monospace;
+	margin: 50px;
+	color: #b1b5b2;
+}
